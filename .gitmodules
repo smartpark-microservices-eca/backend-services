@@ -1,0 +1,6 @@
+[submodule "user-vehicle-service"]
+	path = user-vehicle-service
+	url = https://github.com/smartpark-microservices-eca/user-vehicle-service.git
+[submodule "parking-facility-service"]
+	path = parking-facility-service
+	url = https://github.com/smartpark-microservices-eca/parking-facility-service.git
