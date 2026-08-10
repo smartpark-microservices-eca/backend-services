@@ -4,3 +4,6 @@
 [submodule "parking-facility-service"]
 	path = parking-facility-service
 	url = https://github.com/smartpark-microservices-eca/parking-facility-service.git
+[submodule "reservation-billing-service"]
+	path = reservation-billing-service
+	url = https://github.com/smartpark-microservices-eca/reservation-billing-service.git
